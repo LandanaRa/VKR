@@ -16,7 +16,7 @@ namespace Praktika
            "User ID = ArslanovKR; Password = \"K%5e#q\"");
 
 
-        //b test
+        //b test 2232323
 
 
         public SqlDependency Dependency = new SqlDependency();
