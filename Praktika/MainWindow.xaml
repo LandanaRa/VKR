@@ -1,0 +1,43 @@
+﻿<Window x:Class="Praktika.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Praktika"
+        xmlns:design="http://materialdesigninxaml.net/winfx/xaml/themes"
+        mc:Ignorable="d"
+        Title="Главное меню" Height="600" Width="800" FontFamily="Verdana" Background="#8FA3AD" WindowStartupLocation="CenterScreen" Loaded="Window_Loaded">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition></RowDefinition>
+            <RowDefinition></RowDefinition>
+            <RowDefinition></RowDefinition>
+            <RowDefinition></RowDefinition>
+            <RowDefinition></RowDefinition>
+            <RowDefinition></RowDefinition>
+
+        </Grid.RowDefinitions>
+
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition></ColumnDefinition>
+            <ColumnDefinition></ColumnDefinition>
+            <ColumnDefinition></ColumnDefinition>
+            <ColumnDefinition></ColumnDefinition>
+            <ColumnDefinition></ColumnDefinition>
+            <ColumnDefinition></ColumnDefinition>
+
+        </Grid.ColumnDefinitions>
+
+        <Label Name="lbl_MainWindow" Grid.Row="0" Grid.Column="2" Grid.ColumnSpan="2" Content="Главное меню" HorizontalContentAlignment="Center" FontSize="24" VerticalAlignment="Center" FontFamily="Verdana"/>
+
+
+
+        <Button  design:ButtonAssist.CornerRadius="10" Background="#607D8B" BorderBrush="#607D8B"  FontSize="16" Height="Auto" ToolTip="Переход в главные критерии" Name="bt_Kind_criteria" Content= "Главные критерии" Grid.Column="2" Grid.Row="1" Grid.ColumnSpan="2" FontFamily="Verdana" Width="230" Click="bt_Kind_criteria_Click" Margin="10,25,0,29"/>
+        <Button design:ButtonAssist.CornerRadius="10" Background="#607D8B" BorderBrush="#607D8B" FontSize="16" Height="Auto" ToolTip="Переход в под критерии" Name="bt_Criteria" Content= "Под критерии" Grid.Column="2" Grid.Row="2" Grid.ColumnSpan="2"  FontFamily="Verdana" Width="230" Click="bt_Criteria_Click" Margin="10,10,0,44"/>
+        <Button design:ButtonAssist.CornerRadius="10" Background="#607D8B" BorderBrush="#607D8B" FontSize="16" Height="Auto" ToolTip="Переход в сопоставление лабораторий с критериями" Name="bt_Sopostavlenie" Content= "Сопоставление" Grid.Column="2" Grid.Row="3" Grid.ColumnSpan="2"  FontFamily="Verdana" Width="230" Margin="10,10,0,44" Click="bt_Sopostavlenie_Click"/>
+        <Button design:ButtonAssist.CornerRadius="10" Background="#607D8B" BorderBrush="#607D8B" FontSize="16" Height="Auto" ToolTip="Переход в табель" Name="bt_Tabel" Content= "Табель" Grid.Column="2" Grid.Row="4" Grid.ColumnSpan="2"  FontFamily="Verdana" Width="230" Margin="10,10,0,44" Click="bt_Tabel_Click" />
+        <Button  design:ButtonAssist.CornerRadius="10" Background="#607D8B" BorderBrush="#607D8B" FontSize="16" Height="Auto" ToolTip="Выход" Name="bt_Exit" Content= "Выход" Grid.Column="2"  Grid.Row="5" Grid.ColumnSpan="2"  FontFamily="Verdana" Width="230" Click="bt_Exit_Click" Margin="10,20,0,30" />
+
+
+    </Grid>
+</Window>

@@ -1,0 +1,331 @@
+D:\Praktika\Praktika\obj\Debug\Praktika.csprojAssemblyReference.cache
+D:\Praktika\Praktika\obj\Debug\Criteria.g.cs
+D:\Praktika\Praktika\obj\Debug\Quality_control.g.cs
+D:\Praktika\Praktika\obj\Debug\Kind_criteria.g.cs
+D:\Praktika\Praktika\obj\Debug\App.g.cs
+D:\Praktika\Praktika\obj\Debug\Praktika_MarkupCompile.cache
+D:\Praktika\Praktika\obj\Debug\Praktika_MarkupCompile.lref
+D:\Praktika\Praktika\obj\Debug\MainWindow.g.cs
+D:\Praktika\Praktika\bin\Debug\Praktika.exe.config
+D:\Praktika\Praktika\bin\Debug\Praktika.exe
+D:\Praktika\Praktika\bin\Debug\Praktika.pdb
+D:\Praktika\Praktika\obj\Debug\Criteria.baml
+D:\Praktika\Praktika\obj\Debug\MainWindow.baml
+D:\Praktika\Praktika\obj\Debug\Quality_control.baml
+D:\Praktika\Praktika\obj\Debug\Kind_criteria.baml
+D:\Praktika\Praktika\obj\Debug\Praktika.g.resources
+D:\Praktika\Praktika\obj\Debug\Praktika.Properties.Resources.resources
+D:\Praktika\Praktika\obj\Debug\Praktika.csproj.GenerateResource.cache
+D:\Praktika\Praktika\obj\Debug\Praktika.exe
+D:\Praktika\Praktika\obj\Debug\Praktika.pdb
+C:\Users\чОрт\Desktop\Praktika\Praktika\obj\Debug\Praktika.csprojAssemblyReference.cache
+C:\Users\чОрт\Desktop\Praktika\Praktika\obj\Debug\Criteria.g.cs
+C:\Users\чОрт\Desktop\Praktika\Praktika\obj\Debug\MainWindow.g.cs
+C:\Users\чОрт\Desktop\Praktika\Praktika\obj\Debug\Quality_control.g.cs
+C:\Users\чОрт\Desktop\Praktika\Praktika\obj\Debug\Kind_criteria.g.cs
+C:\Users\чОрт\Desktop\Praktika\Praktika\obj\Debug\App.g.cs
+C:\Users\чОрт\Desktop\Praktika\Praktika\obj\Debug\Praktika_MarkupCompile.cache
+C:\Users\чОрт\Desktop\Praktika\Praktika\obj\Debug\Praktika_MarkupCompile.lref
+C:\Users\чОрт\Desktop\Praktika\Praktika\obj\Debug\Praktika.exe
+C:\Users\чОрт\Desktop\Praktika\Praktika\obj\Debug\Praktika.pdb
+C:\Users\чОрт\Desktop\Praktika\Praktika\bin\Debug\Praktika.exe.config
+C:\Users\чОрт\Desktop\Praktika\Praktika\bin\Debug\Praktika.exe
+C:\Users\чОрт\Desktop\Praktika\Praktika\bin\Debug\Praktika.pdb
+C:\Users\чОрт\Desktop\Praktika\Praktika\obj\Debug\Criteria.baml
+C:\Users\чОрт\Desktop\Praktika\Praktika\obj\Debug\MainWindow.baml
+C:\Users\чОрт\Desktop\Praktika\Praktika\obj\Debug\Quality_control.baml
+C:\Users\чОрт\Desktop\Praktika\Praktika\obj\Debug\Kind_criteria.baml
+C:\Users\чОрт\Desktop\Praktika\Praktika\obj\Debug\Praktika.g.resources
+C:\Users\чОрт\Desktop\Praktika\Praktika\obj\Debug\Praktika.Properties.Resources.resources
+C:\Users\чОрт\Desktop\Praktika\Praktika\obj\Debug\Praktika.csproj.GenerateResource.cache
+D:\Praktika_Remaster\Praktika\bin\Debug\Praktika.exe.config
+D:\Praktika_Remaster\Praktika\bin\Debug\Praktika.exe
+D:\Praktika_Remaster\Praktika\bin\Debug\Praktika.pdb
+D:\Praktika_Remaster\Praktika\obj\Debug\Praktika.csprojAssemblyReference.cache
+D:\Praktika_Remaster\Praktika\obj\Debug\Criteria.g.cs
+D:\Praktika_Remaster\Praktika\obj\Debug\MainWindow.g.cs
+D:\Praktika_Remaster\Praktika\obj\Debug\Quality_control.g.cs
+D:\Praktika_Remaster\Praktika\obj\Debug\Kind_criteria.g.cs
+D:\Praktika_Remaster\Praktika\obj\Debug\App.g.cs
+D:\Praktika_Remaster\Praktika\obj\Debug\Praktika_MarkupCompile.cache
+D:\Praktika_Remaster\Praktika\obj\Debug\Praktika_MarkupCompile.lref
+D:\Praktika_Remaster\Praktika\obj\Debug\Criteria.baml
+D:\Praktika_Remaster\Praktika\obj\Debug\MainWindow.baml
+D:\Praktika_Remaster\Praktika\obj\Debug\Quality_control.baml
+D:\Praktika_Remaster\Praktika\obj\Debug\Kind_criteria.baml
+D:\Praktika_Remaster\Praktika\obj\Debug\Praktika.g.resources
+D:\Praktika_Remaster\Praktika\obj\Debug\Praktika.Properties.Resources.resources
+D:\Praktika_Remaster\Praktika\obj\Debug\Praktika.csproj.GenerateResource.cache
+D:\Praktika_Remaster\Praktika\obj\Debug\Praktika.exe
+D:\Praktika_Remaster\Praktika\obj\Debug\Praktika.pdb
+D:\Praktika_Remaster — копия\Praktika\bin\Debug\Praktika.exe.config
+D:\Praktika_Remaster — копия\Praktika\bin\Debug\Praktika.exe
+D:\Praktika_Remaster — копия\Praktika\bin\Debug\Praktika.pdb
+D:\Praktika_Remaster — копия\Praktika\bin\Debug\ControlzEx.dll
+D:\Praktika_Remaster — копия\Praktika\bin\Debug\MahApps.Metro.dll
+D:\Praktika_Remaster — копия\Praktika\bin\Debug\MaterialDesignColors.dll
+D:\Praktika_Remaster — копия\Praktika\bin\Debug\MaterialDesignThemes.MahApps.dll
+D:\Praktika_Remaster — копия\Praktika\bin\Debug\MaterialDesignThemes.Wpf.dll
+D:\Praktika_Remaster — копия\Praktika\bin\Debug\Microsoft.Xaml.Behaviors.dll
+D:\Praktika_Remaster — копия\Praktika\bin\Debug\ControlzEx.pdb
+D:\Praktika_Remaster — копия\Praktika\bin\Debug\ControlzEx.xml
+D:\Praktika_Remaster — копия\Praktika\bin\Debug\MahApps.Metro.pdb
+D:\Praktika_Remaster — копия\Praktika\bin\Debug\MahApps.Metro.xml
+D:\Praktika_Remaster — копия\Praktika\bin\Debug\MaterialDesignColors.pdb
+D:\Praktika_Remaster — копия\Praktika\bin\Debug\MaterialDesignThemes.MahApps.pdb
+D:\Praktika_Remaster — копия\Praktika\bin\Debug\MaterialDesignThemes.Wpf.pdb
+D:\Praktika_Remaster — копия\Praktika\bin\Debug\MaterialDesignThemes.Wpf.xml
+D:\Praktika_Remaster — копия\Praktika\bin\Debug\Microsoft.Xaml.Behaviors.pdb
+D:\Praktika_Remaster — копия\Praktika\bin\Debug\Microsoft.Xaml.Behaviors.xml
+D:\Praktika_Remaster — копия\Praktika\obj\Debug\Praktika.csprojAssemblyReference.cache
+D:\Praktika_Remaster — копия\Praktika\obj\Debug\Criteria.g.cs
+D:\Praktika_Remaster — копия\Praktika\obj\Debug\MainWindow.g.cs
+D:\Praktika_Remaster — копия\Praktika\obj\Debug\Quality_control.g.cs
+D:\Praktika_Remaster — копия\Praktika\obj\Debug\Kind_criteria.g.cs
+D:\Praktika_Remaster — копия\Praktika\obj\Debug\App.g.cs
+D:\Praktika_Remaster — копия\Praktika\obj\Debug\Praktika_MarkupCompile.cache
+D:\Praktika_Remaster — копия\Praktika\obj\Debug\Praktika_MarkupCompile.lref
+D:\Praktika_Remaster — копия\Praktika\obj\Debug\App.baml
+D:\Praktika_Remaster — копия\Praktika\obj\Debug\Criteria.baml
+D:\Praktika_Remaster — копия\Praktika\obj\Debug\MainWindow.baml
+D:\Praktika_Remaster — копия\Praktika\obj\Debug\Quality_control.baml
+D:\Praktika_Remaster — копия\Praktika\obj\Debug\Kind_criteria.baml
+D:\Praktika_Remaster — копия\Praktika\obj\Debug\Praktika.g.resources
+D:\Praktika_Remaster — копия\Praktika\obj\Debug\Praktika.Properties.Resources.resources
+D:\Praktika_Remaster — копия\Praktika\obj\Debug\Praktika.csproj.GenerateResource.cache
+D:\Praktika_Remaster — копия\Praktika\obj\Debug\Praktika.csproj.CopyComplete
+D:\Praktika_Remaster — копия\Praktika\obj\Debug\Praktika.exe
+D:\Praktika_Remaster — копия\Praktika\obj\Debug\Praktika.pdb
+C:\Users\User\Desktop\Praktika_Remaster\Praktika\bin\Debug\Praktika.exe.config
+C:\Users\User\Desktop\Praktika_Remaster\Praktika\bin\Debug\Praktika.exe
+C:\Users\User\Desktop\Praktika_Remaster\Praktika\bin\Debug\Praktika.pdb
+C:\Users\User\Desktop\Praktika_Remaster\Praktika\bin\Debug\ControlzEx.dll
+C:\Users\User\Desktop\Praktika_Remaster\Praktika\bin\Debug\MahApps.Metro.dll
+C:\Users\User\Desktop\Praktika_Remaster\Praktika\bin\Debug\MaterialDesignColors.dll
+C:\Users\User\Desktop\Praktika_Remaster\Praktika\bin\Debug\MaterialDesignThemes.MahApps.dll
+C:\Users\User\Desktop\Praktika_Remaster\Praktika\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\User\Desktop\Praktika_Remaster\Praktika\bin\Debug\Microsoft.Xaml.Behaviors.dll
+C:\Users\User\Desktop\Praktika_Remaster\Praktika\bin\Debug\ControlzEx.pdb
+C:\Users\User\Desktop\Praktika_Remaster\Praktika\bin\Debug\ControlzEx.xml
+C:\Users\User\Desktop\Praktika_Remaster\Praktika\bin\Debug\MahApps.Metro.pdb
+C:\Users\User\Desktop\Praktika_Remaster\Praktika\bin\Debug\MahApps.Metro.xml
+C:\Users\User\Desktop\Praktika_Remaster\Praktika\bin\Debug\MaterialDesignColors.pdb
+C:\Users\User\Desktop\Praktika_Remaster\Praktika\bin\Debug\MaterialDesignThemes.MahApps.pdb
+C:\Users\User\Desktop\Praktika_Remaster\Praktika\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\User\Desktop\Praktika_Remaster\Praktika\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\User\Desktop\Praktika_Remaster\Praktika\bin\Debug\Microsoft.Xaml.Behaviors.pdb
+C:\Users\User\Desktop\Praktika_Remaster\Praktika\bin\Debug\Microsoft.Xaml.Behaviors.xml
+C:\Users\User\Desktop\Praktika_Remaster\Praktika\obj\Debug\Praktika.csprojAssemblyReference.cache
+C:\Users\User\Desktop\Praktika_Remaster\Praktika\obj\Debug\Criteria.g.cs
+C:\Users\User\Desktop\Praktika_Remaster\Praktika\obj\Debug\MainWindow.g.cs
+C:\Users\User\Desktop\Praktika_Remaster\Praktika\obj\Debug\Quality_control.g.cs
+C:\Users\User\Desktop\Praktika_Remaster\Praktika\obj\Debug\Kind_criteria.g.cs
+C:\Users\User\Desktop\Praktika_Remaster\Praktika\obj\Debug\App.g.cs
+C:\Users\User\Desktop\Praktika_Remaster\Praktika\obj\Debug\Praktika_MarkupCompile.cache
+C:\Users\User\Desktop\Praktika_Remaster\Praktika\obj\Debug\Praktika_MarkupCompile.lref
+C:\Users\User\Desktop\Praktika_Remaster\Praktika\obj\Debug\App.baml
+C:\Users\User\Desktop\Praktika_Remaster\Praktika\obj\Debug\Criteria.baml
+C:\Users\User\Desktop\Praktika_Remaster\Praktika\obj\Debug\MainWindow.baml
+C:\Users\User\Desktop\Praktika_Remaster\Praktika\obj\Debug\Quality_control.baml
+C:\Users\User\Desktop\Praktika_Remaster\Praktika\obj\Debug\Kind_criteria.baml
+C:\Users\User\Desktop\Praktika_Remaster\Praktika\obj\Debug\Praktika.g.resources
+C:\Users\User\Desktop\Praktika_Remaster\Praktika\obj\Debug\Praktika.Properties.Resources.resources
+C:\Users\User\Desktop\Praktika_Remaster\Praktika\obj\Debug\Praktika.csproj.GenerateResource.cache
+C:\Users\User\Desktop\Praktika_Remaster\Praktika\obj\Debug\Praktika.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Praktika_Remaster\Praktika\obj\Debug\Praktika.csproj.CopyComplete
+C:\Users\User\Desktop\Praktika_Remaster\Praktika\obj\Debug\Praktika.exe
+C:\Users\User\Desktop\Praktika_Remaster\Praktika\obj\Debug\Praktika.pdb
+C:\Users\User\Desktop\Praktika_Remaster\Praktika\bin\Debug\Xceed.Wpf.AvalonDock.dll
+C:\Users\User\Desktop\Praktika_Remaster\Praktika\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Aero.dll
+C:\Users\User\Desktop\Praktika_Remaster\Praktika\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Metro.dll
+C:\Users\User\Desktop\Praktika_Remaster\Praktika\bin\Debug\Xceed.Wpf.AvalonDock.Themes.VS2010.dll
+C:\Users\User\Desktop\Praktika_Remaster\Praktika\bin\Debug\Xceed.Wpf.Toolkit.dll
+C:\Users\User\Desktop\Praktika_Remaster\Praktika\bin\Debug\cs-CZ\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\User\Desktop\Praktika_Remaster\Praktika\bin\Debug\de\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\User\Desktop\Praktika_Remaster\Praktika\bin\Debug\es\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\User\Desktop\Praktika_Remaster\Praktika\bin\Debug\fr\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\User\Desktop\Praktika_Remaster\Praktika\bin\Debug\hu\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\User\Desktop\Praktika_Remaster\Praktika\bin\Debug\it\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\User\Desktop\Praktika_Remaster\Praktika\bin\Debug\pt-BR\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\User\Desktop\Praktika_Remaster\Praktika\bin\Debug\ro\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\User\Desktop\Praktika_Remaster\Praktika\bin\Debug\ru\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\User\Desktop\Praktika_Remaster\Praktika\bin\Debug\sv\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\User\Desktop\Praktika_Remaster\Praktika\bin\Debug\zh-Hans\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\User\Desktop\Praktika_Remaster\Praktika\obj\Debug\Sopostavl.g.cs
+C:\Users\User\Desktop\Praktika_Remaster\Praktika\obj\Debug\Sopostavl.baml
+C:\Users\User\Desktop\Praktika_Remaster - Copy\Praktika\bin\Debug\Praktika.exe.config
+C:\Users\User\Desktop\Praktika_Remaster - Copy\Praktika\bin\Debug\Praktika.exe
+C:\Users\User\Desktop\Praktika_Remaster - Copy\Praktika\bin\Debug\Praktika.pdb
+C:\Users\User\Desktop\Praktika_Remaster - Copy\Praktika\bin\Debug\ControlzEx.dll
+C:\Users\User\Desktop\Praktika_Remaster - Copy\Praktika\bin\Debug\MahApps.Metro.dll
+C:\Users\User\Desktop\Praktika_Remaster - Copy\Praktika\bin\Debug\MaterialDesignColors.dll
+C:\Users\User\Desktop\Praktika_Remaster - Copy\Praktika\bin\Debug\MaterialDesignThemes.MahApps.dll
+C:\Users\User\Desktop\Praktika_Remaster - Copy\Praktika\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\User\Desktop\Praktika_Remaster - Copy\Praktika\bin\Debug\Microsoft.Xaml.Behaviors.dll
+C:\Users\User\Desktop\Praktika_Remaster - Copy\Praktika\bin\Debug\Xceed.Wpf.AvalonDock.dll
+C:\Users\User\Desktop\Praktika_Remaster - Copy\Praktika\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Aero.dll
+C:\Users\User\Desktop\Praktika_Remaster - Copy\Praktika\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Metro.dll
+C:\Users\User\Desktop\Praktika_Remaster - Copy\Praktika\bin\Debug\Xceed.Wpf.AvalonDock.Themes.VS2010.dll
+C:\Users\User\Desktop\Praktika_Remaster - Copy\Praktika\bin\Debug\Xceed.Wpf.Toolkit.dll
+C:\Users\User\Desktop\Praktika_Remaster - Copy\Praktika\bin\Debug\ControlzEx.pdb
+C:\Users\User\Desktop\Praktika_Remaster - Copy\Praktika\bin\Debug\ControlzEx.xml
+C:\Users\User\Desktop\Praktika_Remaster - Copy\Praktika\bin\Debug\MahApps.Metro.pdb
+C:\Users\User\Desktop\Praktika_Remaster - Copy\Praktika\bin\Debug\MahApps.Metro.xml
+C:\Users\User\Desktop\Praktika_Remaster - Copy\Praktika\bin\Debug\MaterialDesignColors.pdb
+C:\Users\User\Desktop\Praktika_Remaster - Copy\Praktika\bin\Debug\MaterialDesignThemes.MahApps.pdb
+C:\Users\User\Desktop\Praktika_Remaster - Copy\Praktika\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\User\Desktop\Praktika_Remaster - Copy\Praktika\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\User\Desktop\Praktika_Remaster - Copy\Praktika\bin\Debug\Microsoft.Xaml.Behaviors.pdb
+C:\Users\User\Desktop\Praktika_Remaster - Copy\Praktika\bin\Debug\Microsoft.Xaml.Behaviors.xml
+C:\Users\User\Desktop\Praktika_Remaster - Copy\Praktika\bin\Debug\cs-CZ\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\User\Desktop\Praktika_Remaster - Copy\Praktika\bin\Debug\de\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\User\Desktop\Praktika_Remaster - Copy\Praktika\bin\Debug\es\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\User\Desktop\Praktika_Remaster - Copy\Praktika\bin\Debug\fr\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\User\Desktop\Praktika_Remaster - Copy\Praktika\bin\Debug\hu\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\User\Desktop\Praktika_Remaster - Copy\Praktika\bin\Debug\it\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\User\Desktop\Praktika_Remaster - Copy\Praktika\bin\Debug\pt-BR\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\User\Desktop\Praktika_Remaster - Copy\Praktika\bin\Debug\ro\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\User\Desktop\Praktika_Remaster - Copy\Praktika\bin\Debug\ru\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\User\Desktop\Praktika_Remaster - Copy\Praktika\bin\Debug\sv\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\User\Desktop\Praktika_Remaster - Copy\Praktika\bin\Debug\zh-Hans\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\User\Desktop\Praktika_Remaster - Copy\Praktika\obj\Debug\Praktika.csprojAssemblyReference.cache
+C:\Users\User\Desktop\Praktika_Remaster - Copy\Praktika\obj\Debug\Criteria.g.cs
+C:\Users\User\Desktop\Praktika_Remaster - Copy\Praktika\obj\Debug\MainWindow.g.cs
+C:\Users\User\Desktop\Praktika_Remaster - Copy\Praktika\obj\Debug\Quality_control.g.cs
+C:\Users\User\Desktop\Praktika_Remaster - Copy\Praktika\obj\Debug\Kind_criteria.g.cs
+C:\Users\User\Desktop\Praktika_Remaster - Copy\Praktika\obj\Debug\Sopostavl.g.cs
+C:\Users\User\Desktop\Praktika_Remaster - Copy\Praktika\obj\Debug\App.g.cs
+C:\Users\User\Desktop\Praktika_Remaster - Copy\Praktika\obj\Debug\Praktika_MarkupCompile.cache
+C:\Users\User\Desktop\Praktika_Remaster - Copy\Praktika\obj\Debug\Praktika_MarkupCompile.lref
+C:\Users\User\Desktop\Praktika_Remaster - Copy\Praktika\obj\Debug\App.baml
+C:\Users\User\Desktop\Praktika_Remaster - Copy\Praktika\obj\Debug\Criteria.baml
+C:\Users\User\Desktop\Praktika_Remaster - Copy\Praktika\obj\Debug\MainWindow.baml
+C:\Users\User\Desktop\Praktika_Remaster - Copy\Praktika\obj\Debug\Quality_control.baml
+C:\Users\User\Desktop\Praktika_Remaster - Copy\Praktika\obj\Debug\Kind_criteria.baml
+C:\Users\User\Desktop\Praktika_Remaster - Copy\Praktika\obj\Debug\Sopostavl.baml
+C:\Users\User\Desktop\Praktika_Remaster - Copy\Praktika\obj\Debug\Praktika.g.resources
+C:\Users\User\Desktop\Praktika_Remaster - Copy\Praktika\obj\Debug\Praktika.Properties.Resources.resources
+C:\Users\User\Desktop\Praktika_Remaster - Copy\Praktika\obj\Debug\Praktika.csproj.GenerateResource.cache
+C:\Users\User\Desktop\Praktika_Remaster - Copy\Praktika\obj\Debug\Praktika.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Praktika_Remaster - Copy\Praktika\obj\Debug\Praktika.csproj.CopyComplete
+C:\Users\User\Desktop\Praktika_Remaster - Copy\Praktika\obj\Debug\Praktika.exe
+C:\Users\User\Desktop\Praktika_Remaster - Copy\Praktika\obj\Debug\Praktika.pdb
+C:\Users\User\Desktop\Praktika_Remaster - Copy\Praktika\obj\Debug\Tabel.g.cs
+C:\Users\User\Desktop\Praktika_Remaster - Copy\Praktika\obj\Debug\Tabel.baml
+D:\Практика ФИНАЛ\Praktika\bin\Debug\Praktika.exe.config
+D:\Практика ФИНАЛ\Praktika\bin\Debug\Praktika.exe
+D:\Практика ФИНАЛ\Praktika\bin\Debug\Praktika.pdb
+D:\Практика ФИНАЛ\Praktika\bin\Debug\ControlzEx.dll
+D:\Практика ФИНАЛ\Praktika\bin\Debug\MahApps.Metro.dll
+D:\Практика ФИНАЛ\Praktika\bin\Debug\MaterialDesignColors.dll
+D:\Практика ФИНАЛ\Praktika\bin\Debug\MaterialDesignThemes.MahApps.dll
+D:\Практика ФИНАЛ\Praktika\bin\Debug\MaterialDesignThemes.Wpf.dll
+D:\Практика ФИНАЛ\Praktika\bin\Debug\Microsoft.Xaml.Behaviors.dll
+D:\Практика ФИНАЛ\Praktika\bin\Debug\Xceed.Wpf.AvalonDock.dll
+D:\Практика ФИНАЛ\Praktika\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Aero.dll
+D:\Практика ФИНАЛ\Praktika\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Metro.dll
+D:\Практика ФИНАЛ\Praktika\bin\Debug\Xceed.Wpf.AvalonDock.Themes.VS2010.dll
+D:\Практика ФИНАЛ\Praktika\bin\Debug\Xceed.Wpf.Toolkit.dll
+D:\Практика ФИНАЛ\Praktika\bin\Debug\ControlzEx.pdb
+D:\Практика ФИНАЛ\Praktika\bin\Debug\ControlzEx.xml
+D:\Практика ФИНАЛ\Praktika\bin\Debug\MahApps.Metro.pdb
+D:\Практика ФИНАЛ\Praktika\bin\Debug\MahApps.Metro.xml
+D:\Практика ФИНАЛ\Praktika\bin\Debug\MaterialDesignColors.pdb
+D:\Практика ФИНАЛ\Praktika\bin\Debug\MaterialDesignThemes.MahApps.pdb
+D:\Практика ФИНАЛ\Praktika\bin\Debug\MaterialDesignThemes.Wpf.pdb
+D:\Практика ФИНАЛ\Praktika\bin\Debug\MaterialDesignThemes.Wpf.xml
+D:\Практика ФИНАЛ\Praktika\bin\Debug\Microsoft.Xaml.Behaviors.pdb
+D:\Практика ФИНАЛ\Praktika\bin\Debug\Microsoft.Xaml.Behaviors.xml
+D:\Практика ФИНАЛ\Praktika\bin\Debug\cs-CZ\Xceed.Wpf.AvalonDock.resources.dll
+D:\Практика ФИНАЛ\Praktika\bin\Debug\de\Xceed.Wpf.AvalonDock.resources.dll
+D:\Практика ФИНАЛ\Praktika\bin\Debug\es\Xceed.Wpf.AvalonDock.resources.dll
+D:\Практика ФИНАЛ\Praktika\bin\Debug\fr\Xceed.Wpf.AvalonDock.resources.dll
+D:\Практика ФИНАЛ\Praktika\bin\Debug\hu\Xceed.Wpf.AvalonDock.resources.dll
+D:\Практика ФИНАЛ\Praktika\bin\Debug\it\Xceed.Wpf.AvalonDock.resources.dll
+D:\Практика ФИНАЛ\Praktika\bin\Debug\pt-BR\Xceed.Wpf.AvalonDock.resources.dll
+D:\Практика ФИНАЛ\Praktika\bin\Debug\ro\Xceed.Wpf.AvalonDock.resources.dll
+D:\Практика ФИНАЛ\Praktika\bin\Debug\ru\Xceed.Wpf.AvalonDock.resources.dll
+D:\Практика ФИНАЛ\Praktika\bin\Debug\sv\Xceed.Wpf.AvalonDock.resources.dll
+D:\Практика ФИНАЛ\Praktika\bin\Debug\zh-Hans\Xceed.Wpf.AvalonDock.resources.dll
+D:\Практика ФИНАЛ\Praktika\obj\Debug\Praktika.csprojAssemblyReference.cache
+D:\Практика ФИНАЛ\Praktika\obj\Debug\Criteria.g.cs
+D:\Практика ФИНАЛ\Praktika\obj\Debug\MainWindow.g.cs
+D:\Практика ФИНАЛ\Praktika\obj\Debug\Quality_control.g.cs
+D:\Практика ФИНАЛ\Praktika\obj\Debug\Kind_criteria.g.cs
+D:\Практика ФИНАЛ\Praktika\obj\Debug\Sopostavl.g.cs
+D:\Практика ФИНАЛ\Praktika\obj\Debug\Tabel.g.cs
+D:\Практика ФИНАЛ\Praktika\obj\Debug\App.g.cs
+D:\Практика ФИНАЛ\Praktika\obj\Debug\Praktika_MarkupCompile.cache
+D:\Практика ФИНАЛ\Praktika\obj\Debug\Praktika_MarkupCompile.lref
+D:\Практика ФИНАЛ\Praktika\obj\Debug\App.baml
+D:\Практика ФИНАЛ\Praktika\obj\Debug\Criteria.baml
+D:\Практика ФИНАЛ\Praktika\obj\Debug\MainWindow.baml
+D:\Практика ФИНАЛ\Praktika\obj\Debug\Quality_control.baml
+D:\Практика ФИНАЛ\Praktika\obj\Debug\Kind_criteria.baml
+D:\Практика ФИНАЛ\Praktika\obj\Debug\Sopostavl.baml
+D:\Практика ФИНАЛ\Praktika\obj\Debug\Tabel.baml
+D:\Практика ФИНАЛ\Praktika\obj\Debug\Praktika.g.resources
+D:\Практика ФИНАЛ\Praktika\obj\Debug\Praktika.Properties.Resources.resources
+D:\Практика ФИНАЛ\Praktika\obj\Debug\Praktika.csproj.GenerateResource.cache
+D:\Практика ФИНАЛ\Praktika\obj\Debug\Praktika.csproj.CopyComplete
+D:\Практика ФИНАЛ\Praktika\obj\Debug\Praktika.exe
+D:\Практика ФИНАЛ\Praktika\obj\Debug\Praktika.pdb
+D:\КАМИЛЬ\Практика ФИНАЛ\Praktika\bin\Debug\Praktika.exe.config
+D:\КАМИЛЬ\Практика ФИНАЛ\Praktika\bin\Debug\Praktika.exe
+D:\КАМИЛЬ\Практика ФИНАЛ\Praktika\bin\Debug\Praktika.pdb
+D:\КАМИЛЬ\Практика ФИНАЛ\Praktika\bin\Debug\ControlzEx.dll
+D:\КАМИЛЬ\Практика ФИНАЛ\Praktika\bin\Debug\MahApps.Metro.dll
+D:\КАМИЛЬ\Практика ФИНАЛ\Praktika\bin\Debug\MaterialDesignColors.dll
+D:\КАМИЛЬ\Практика ФИНАЛ\Praktika\bin\Debug\MaterialDesignThemes.MahApps.dll
+D:\КАМИЛЬ\Практика ФИНАЛ\Praktika\bin\Debug\MaterialDesignThemes.Wpf.dll
+D:\КАМИЛЬ\Практика ФИНАЛ\Praktika\bin\Debug\Microsoft.Xaml.Behaviors.dll
+D:\КАМИЛЬ\Практика ФИНАЛ\Praktika\bin\Debug\Xceed.Wpf.AvalonDock.dll
+D:\КАМИЛЬ\Практика ФИНАЛ\Praktika\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Aero.dll
+D:\КАМИЛЬ\Практика ФИНАЛ\Praktika\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Metro.dll
+D:\КАМИЛЬ\Практика ФИНАЛ\Praktika\bin\Debug\Xceed.Wpf.AvalonDock.Themes.VS2010.dll
+D:\КАМИЛЬ\Практика ФИНАЛ\Praktika\bin\Debug\Xceed.Wpf.Toolkit.dll
+D:\КАМИЛЬ\Практика ФИНАЛ\Praktika\bin\Debug\ControlzEx.pdb
+D:\КАМИЛЬ\Практика ФИНАЛ\Praktika\bin\Debug\ControlzEx.xml
+D:\КАМИЛЬ\Практика ФИНАЛ\Praktika\bin\Debug\MahApps.Metro.pdb
+D:\КАМИЛЬ\Практика ФИНАЛ\Praktika\bin\Debug\MahApps.Metro.xml
+D:\КАМИЛЬ\Практика ФИНАЛ\Praktika\bin\Debug\MaterialDesignColors.pdb
+D:\КАМИЛЬ\Практика ФИНАЛ\Praktika\bin\Debug\MaterialDesignThemes.MahApps.pdb
+D:\КАМИЛЬ\Практика ФИНАЛ\Praktika\bin\Debug\MaterialDesignThemes.Wpf.pdb
+D:\КАМИЛЬ\Практика ФИНАЛ\Praktika\bin\Debug\MaterialDesignThemes.Wpf.xml
+D:\КАМИЛЬ\Практика ФИНАЛ\Praktika\bin\Debug\Microsoft.Xaml.Behaviors.pdb
+D:\КАМИЛЬ\Практика ФИНАЛ\Praktika\bin\Debug\Microsoft.Xaml.Behaviors.xml
+D:\КАМИЛЬ\Практика ФИНАЛ\Praktika\bin\Debug\cs-CZ\Xceed.Wpf.AvalonDock.resources.dll
+D:\КАМИЛЬ\Практика ФИНАЛ\Praktika\bin\Debug\de\Xceed.Wpf.AvalonDock.resources.dll
+D:\КАМИЛЬ\Практика ФИНАЛ\Praktika\bin\Debug\es\Xceed.Wpf.AvalonDock.resources.dll
+D:\КАМИЛЬ\Практика ФИНАЛ\Praktika\bin\Debug\fr\Xceed.Wpf.AvalonDock.resources.dll
+D:\КАМИЛЬ\Практика ФИНАЛ\Praktika\bin\Debug\hu\Xceed.Wpf.AvalonDock.resources.dll
+D:\КАМИЛЬ\Практика ФИНАЛ\Praktika\bin\Debug\it\Xceed.Wpf.AvalonDock.resources.dll
+D:\КАМИЛЬ\Практика ФИНАЛ\Praktika\bin\Debug\pt-BR\Xceed.Wpf.AvalonDock.resources.dll
+D:\КАМИЛЬ\Практика ФИНАЛ\Praktika\bin\Debug\ro\Xceed.Wpf.AvalonDock.resources.dll
+D:\КАМИЛЬ\Практика ФИНАЛ\Praktika\bin\Debug\ru\Xceed.Wpf.AvalonDock.resources.dll
+D:\КАМИЛЬ\Практика ФИНАЛ\Praktika\bin\Debug\sv\Xceed.Wpf.AvalonDock.resources.dll
+D:\КАМИЛЬ\Практика ФИНАЛ\Praktika\bin\Debug\zh-Hans\Xceed.Wpf.AvalonDock.resources.dll
+D:\КАМИЛЬ\Практика ФИНАЛ\Praktika\obj\Debug\Praktika.csprojAssemblyReference.cache
+D:\КАМИЛЬ\Практика ФИНАЛ\Praktika\obj\Debug\Criteria.g.cs
+D:\КАМИЛЬ\Практика ФИНАЛ\Praktika\obj\Debug\MainWindow.g.cs
+D:\КАМИЛЬ\Практика ФИНАЛ\Praktika\obj\Debug\Quality_control.g.cs
+D:\КАМИЛЬ\Практика ФИНАЛ\Praktika\obj\Debug\Kind_criteria.g.cs
+D:\КАМИЛЬ\Практика ФИНАЛ\Praktika\obj\Debug\Sopostavl.g.cs
+D:\КАМИЛЬ\Практика ФИНАЛ\Praktika\obj\Debug\Tabel.g.cs
+D:\КАМИЛЬ\Практика ФИНАЛ\Praktika\obj\Debug\App.g.cs
+D:\КАМИЛЬ\Практика ФИНАЛ\Praktika\obj\Debug\Praktika_MarkupCompile.cache
+D:\КАМИЛЬ\Практика ФИНАЛ\Praktika\obj\Debug\Praktika_MarkupCompile.lref
+D:\КАМИЛЬ\Практика ФИНАЛ\Praktika\obj\Debug\App.baml
+D:\КАМИЛЬ\Практика ФИНАЛ\Praktika\obj\Debug\Criteria.baml
+D:\КАМИЛЬ\Практика ФИНАЛ\Praktika\obj\Debug\MainWindow.baml
+D:\КАМИЛЬ\Практика ФИНАЛ\Praktika\obj\Debug\Quality_control.baml
+D:\КАМИЛЬ\Практика ФИНАЛ\Praktika\obj\Debug\Kind_criteria.baml
+D:\КАМИЛЬ\Практика ФИНАЛ\Praktika\obj\Debug\Sopostavl.baml
+D:\КАМИЛЬ\Практика ФИНАЛ\Praktika\obj\Debug\Tabel.baml
+D:\КАМИЛЬ\Практика ФИНАЛ\Praktika\obj\Debug\Praktika.g.resources
+D:\КАМИЛЬ\Практика ФИНАЛ\Praktika\obj\Debug\Praktika.Properties.Resources.resources
+D:\КАМИЛЬ\Практика ФИНАЛ\Praktika\obj\Debug\Praktika.csproj.GenerateResource.cache
+D:\КАМИЛЬ\Практика ФИНАЛ\Praktika\obj\Debug\Praktika.csproj.CoreCompileInputs.cache
+D:\КАМИЛЬ\Практика ФИНАЛ\Praktika\obj\Debug\Praktika.csproj.CopyComplete
+D:\КАМИЛЬ\Практика ФИНАЛ\Praktika\obj\Debug\Praktika.exe
+D:\КАМИЛЬ\Практика ФИНАЛ\Praktika\obj\Debug\Praktika.pdb

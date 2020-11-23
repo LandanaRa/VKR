@@ -1,0 +1,75 @@
+﻿<Window x:Class="Praktika.Kind_criteria"
+
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:design="http://materialdesigninxaml.net/winfx/xaml/themes"
+        xmlns:local="clr-namespace:Praktika"
+        mc:Ignorable="d"
+         Title="Критерии" Height="600" Width="800" FontSize="16" FontFamily="Verdana" Background="#8FA3AD" WindowStartupLocation="CenterScreen" Loaded="Window_Loaded">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition></RowDefinition>
+            <RowDefinition></RowDefinition>
+            <RowDefinition></RowDefinition>
+            <RowDefinition></RowDefinition>
+            <RowDefinition></RowDefinition>
+            <RowDefinition></RowDefinition>
+            <RowDefinition></RowDefinition>
+            <RowDefinition></RowDefinition>
+            <RowDefinition></RowDefinition>
+            <RowDefinition></RowDefinition>
+            <RowDefinition></RowDefinition>
+        </Grid.RowDefinitions>
+
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition></ColumnDefinition>
+            <ColumnDefinition></ColumnDefinition>
+            <ColumnDefinition></ColumnDefinition>
+            <ColumnDefinition></ColumnDefinition>
+            <ColumnDefinition></ColumnDefinition>
+            <ColumnDefinition></ColumnDefinition>
+            <ColumnDefinition></ColumnDefinition>
+            <ColumnDefinition></ColumnDefinition>
+            <ColumnDefinition></ColumnDefinition>
+            <ColumnDefinition></ColumnDefinition>
+            <ColumnDefinition></ColumnDefinition>
+            <ColumnDefinition></ColumnDefinition>
+            <ColumnDefinition></ColumnDefinition>
+
+        </Grid.ColumnDefinitions>
+
+        <Label FontFamily="Verdana" Name="lbl_Rezume" Grid.Row="0" Grid.Column="1" Grid.ColumnSpan="11" Content="Критерии" HorizontalContentAlignment="Center" FontSize="16" VerticalAlignment="Center"/>
+        <DataGrid Name="dg_Kind_criteria" ColumnWidth="auto" AutoGenerateColumns="True" IsReadOnly="True" Grid.Column="1" Grid.Row="1" Grid.ColumnSpan="11" Grid.RowSpan="4" AutoGeneratingColumn="dg_Kind_criteria_AutoGeneratingColumn">
+            <DataGrid.ColumnHeaderStyle>
+                <Style TargetType="{x:Type DataGridColumnHeader}">
+                    <Setter Property="FontWeight"  Value="Bold" />
+                    <Setter Property="HorizontalAlignment" Value="Center" />
+                    <Setter Property="HorizontalContentAlignment" Value="Center" />
+                    <Setter Property="BorderBrush" Value="White" />
+                    <Setter Property="Background" Value="White" />
+                    <Setter Property="Margin" Value="10, 10, 0, 10"  />
+                </Style>
+            </DataGrid.ColumnHeaderStyle>
+        </DataGrid>
+
+        <Label FontFamily="Verdana" Name="lbl_kriteria" Grid.Row="5" Grid.Column="1" Grid.ColumnSpan="3" Content="Название критерия:" HorizontalContentAlignment="Left" FontSize="14" VerticalAlignment="Center"/>
+        <TextBox FontFamily="Verdana" Name="tb_Kriteria"  design:TextFieldAssist.UnderlineBrush="White"  design:BottomDashedLineAdorner.Brush="Black" Background="#F1F1F1" Text="{Binding SelectedItem.Name_of_kind_criteria, ElementName=dg_Kind_criteria}" Grid.Row="5" Grid.Column="3" Grid.ColumnSpan="4" Height="30" MaxLength="40" PreviewTextInput="tb_Kriteria_PreviewTextInput" Margin="36,13,25,8"/>
+
+        <Label FontFamily="Verdana" Name="lbl_Search" Grid.Row="8" Grid.Column="1" Grid.ColumnSpan="2" Content="Поиск:" HorizontalContentAlignment="Left" FontSize="14" VerticalAlignment="Center"/>
+
+        <TextBox design:TextFieldAssist.UnderlineBrush="White"  design:BottomDashedLineAdorner.Brush="Black" Background="#F1F1F1" Name="tb_Search" Grid.Row="8" Grid.Column="3" Grid.ColumnSpan="4" Height="30" Margin="36,8,25,14"/>
+        <Button  design:ButtonAssist.CornerRadius="10" Background="#607D8B" BorderBrush="#607D8B" Height="Auto" ToolTip="Поиск" FontFamily="Verdana" Name="bt_Search" Content= "Поиск" Grid.Column="7" Grid.Row="8" Grid.ColumnSpan="2"  Click="bt_Search_Click"  Margin="0,10,0,10"/>
+        <CheckBox design:ButtonAssist.CornerRadius="25" design:CheckBoxAssist.CheckBoxSize="25" Background="Blue" VerticalAlignment="Center"  FontSize="16" Height="Auto" ToolTip="Фильтрация" FontFamily="Verdana" Name="chbFilter" Content= "Фильтрация" Grid.Column="10" Grid.Row="8" Grid.ColumnSpan="2"  Click="bt_Filtr_Click" Margin="0,0,0,14"/>
+
+        <Button  design:ButtonAssist.CornerRadius="10" Background="#607D8B" BorderBrush="#607D8B" Height="Auto" ToolTip="Добавить" FontFamily="Verdana" Name="bt_Insert" Content= "Добавить" Grid.Column="1" Grid.Row="9" Grid.ColumnSpan="2"  Click="bt_Insert_Click"  Margin="0,10,0,10"/>
+        <Button  design:ButtonAssist.CornerRadius="10" Background="#607D8B" BorderBrush="#607D8B" FontSize="16" Height="Auto" ToolTip="Изменить" FontFamily="Verdana" Name="bt_Update" Content= "Изменить" Grid.Column="5" Grid.Row="9" Grid.ColumnSpan="3"  Click="bt_Update_Click" Margin="0,10,0,10"/>
+        <Button design:ButtonAssist.CornerRadius="10" Background="#607D8B" BorderBrush="#607D8B" FontSize="16" Height="Auto" ToolTip="Удалить" FontFamily="Verdana" Name="bt_Delete" Content= "Удалить" Grid.Column="10" Grid.Row="9" Grid.ColumnSpan="2"  Click="bt_Delete_Click"  Margin="0,10,0,10"/>
+        <Button  design:ButtonAssist.CornerRadius="10" Background="#607D8B" BorderBrush="#607D8B" FontSize="16" Height="Auto" ToolTip="Главное меню" FontFamily="Verdana" Name="bt_MainWindow" Content= "Главное меню" Grid.Column="5" Grid.Row="10" Grid.ColumnSpan="3"  Click="bt_MainWindow_Click" Margin="0,10,0,5"/>
+
+
+
+
+    </Grid>
+</Window>
